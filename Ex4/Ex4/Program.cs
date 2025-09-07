@@ -23,7 +23,8 @@ namespace Ex4
 
             phineas.calculaArea();
 
-            Console.WriteLine("O valor da área do quadrado é: {0}", phineas.getArea());
+            Console.WriteLine("O valor da área do triângulo é: {0}", phineas.getArea());
         }
     }
 }
+
